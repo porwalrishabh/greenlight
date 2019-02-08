@@ -58,13 +58,13 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by %{href}.
+    powered_by: Copyright 2019 C-DAC All Right Reserved.
   forgot_password:
     subtitle: Forgot Password
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Econferencing
   header:
     create_room: Create Room
     dropdown:
@@ -78,11 +78,8 @@ en:
   invalid_login_method: Login failed due to account mismatch. You need to log in with omniauth.
   invite_message: "To invite someone to the meeting, send them this link:"
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
-    upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of Greenlight, but your database isn't compatible.
+    about: "Econferencing is a open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    welcome: Welcome to C-DAC Econferencing.
   language_options:
     default: Default (browser language)
     ar: Arabic
@@ -183,7 +180,7 @@ en:
       title: Delete Account
     design:
       not_supported: Customization not currently supported.
-      subtitle: Customize Greenlight
+      subtitle: Customize Econferencing
       title: Design
     password:
       confirmation: New Password Confirmation
