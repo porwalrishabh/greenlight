@@ -21,7 +21,7 @@ en:
     attributes:
       user:
         accepted_terms: "Terms and Conditions"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Econferencing
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   copy: Copy
@@ -39,7 +39,7 @@ en:
       contact_admin: If you are not an administrator, please contact one.
       continue: I'd like to stay using 1.0.
       notice: >
-        Greenlight encountered a database migration error.<br>
+        Econferencing encountered a database migration error.<br>
         This may be because you haven't updated to Greenlight 2.0.
       upgrade: Show me how to upgrade to 2.0!
       version: We've released a new version of Greenlight, but your database isn't compatible.
@@ -52,7 +52,7 @@ en:
       help: Unforunately this isn't a valid request.
   expired_reset_token: Password reset link has expired!
   features:
-    title: Features
+    title: Econferencing Features
     rooms: Personalized Rooms
     recordings: Recording Management
     designs: Custom Designs
